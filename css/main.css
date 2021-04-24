@@ -1,1 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+/* 
+heading type {
+    font-family: "Intro";
+    font-weight: 400 or 900;
+}    */
+
 *, :before, :after {box-sizing:border-box;}
+
+h1,
+h2,
+h3 {
+    font-family: "Intro";
+    text-transform: uppercase;
+}
